@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Ganesh Vasa</h1>
+<h1 align="center"> Ganesh Vasa</h1>
 <h3 align="center">Data Engineer | Real-Time Systems | Cloud Pipelines | ML-Powered Automation</h3>
 
 <p align="center">
